@@ -1,0 +1,11 @@
+{
+  "properties": [
+    {
+      "name": "rita-rpc.enable",
+      "type": "java.lang.Boolean",
+      "description": "是否启动rpc.",
+      "sourceType": "com.yiran.ritarpc.RitaRpcProperties",
+      "defaultValue": true
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+rita-rpc:
+  enable: true
+
+logging:
+  level:
+    root: info
